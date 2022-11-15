@@ -1,5 +1,19 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "description": "A template for building a simple blog website with the Eleventy static site generator, Netlify CMS, and with deployment to Netlify.",
-  "url": "https://eleventy-netlify-boilerplate.netlify.app"
+  "title": "Felix.Miami",
+  "description": "The world wide web homepage of Hardy Ruparel",
+  "url": "https://felix.miami",
+  "feed": {
+    "subtitle": "Hardy's Blog.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://felix.miami"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://felix.miami/feed/feed.json"
+  },
+  "author": {
+    "name": "Hardy Ruparel",
+    "url": "https://felix.miami"
+  }
 }
