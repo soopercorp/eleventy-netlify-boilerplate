@@ -22,6 +22,11 @@ body {
 	background-color: var(--background);
 }
 
+.dark {
+	background-color: black;
+	color: var(--background);
+}
+
 main {
 	max-width: 37.5em;
 }
