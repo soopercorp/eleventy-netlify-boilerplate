@@ -1,12 +1,10 @@
 ---
 title: About me
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
+metaDescription: About me
 date: 2022-11-15T13:42:23.670Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-H﻿iiii
+Hi! My name is Hardik Ruparel but my friends call me Hardy - I work as an Engineering Manager at [VanMoof](https://vanmoof.com). You can find some of my photographs on [Instagram](https://instagram.com/_hruparel_), toots on [Mastodon](https://toot.community/@voodoo), creating [other personal websites](https://hr.hotglue.me/).
