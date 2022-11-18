@@ -7,4 +7,4 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Hi! My name is Hardik Ruparel but my friends call me Hardy - I work as an Engineering Manager at [VanMoof](https://vanmoof.com). You can find some of my photographs on [Instagram](https://instagram.com/_hruparel_), toots on [Mastodon](https://toot.community/@voodoo), creating [other personal websites](https://hr.hotglue.me/).
+Hi! My name is Hardik Ruparel but my friends call me Hardy - I work as an Engineering Manager at [VanMoof](https://vanmoof.com). You can find some of my photographs on [Instagram](https://instagram.com/_hruparel_), toots on [Mastodon](https://toot.community/@voodoo), [other personal websites](https://hr.hotglue.me/) and my logged movies on [Letterboxd](https://letterboxd.com/voidmain/).
